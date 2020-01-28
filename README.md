@@ -1,4 +1,4 @@
-# Class Activity 1 part two
+# Class Activity 2
 
 Tic-Tac-Toe Exercise
 
