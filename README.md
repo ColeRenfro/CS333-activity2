@@ -17,7 +17,8 @@ Please complete the implementation of the Board class and its methods, through w
 *NOTE*  You are welcome to implement any additional methods and/or data structures outside of the board that you feel are needed or helpful to complete the game.
 
 ### Part 2 Requirements
-Provide at least 4 unit tests for the your classes and methods.
+Provide unit tests for the your classes and methods. Make sure they are at least 70% unit tested.
+   - check out https://coverage.readthedocs.io/
 
 ## Submission details
 To submit your project, you will have to use git on your VirtualBox installation:
