@@ -12,9 +12,6 @@ Implement a simplified object-oriented tic-tac-toe game to be played via a comma
 ### Part 1 Requirements 
 The board is a grid of 3-by-3 squares, all initially unclaimed. Each move will fill a square with an X or an O.
 The game is over when 3 in a row of either X or O in any direction is found.
-Please complete the implementation of the Board class and its methods, through which the game will be played.  
-
-*NOTE*  You are welcome to implement any additional methods and/or data structures outside of the board that you feel are needed or helpful to complete the game.
 
 ### Part 2 Requirements
 Provide unit tests for the your classes and methods. Make sure they are at least 70% unit tested.
