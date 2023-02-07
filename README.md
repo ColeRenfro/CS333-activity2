@@ -14,7 +14,10 @@ The board is a grid of 3-by-3 squares, all initially unclaimed. Each move will f
 The game is over when 3 in a row of either X or O in any direction is found.
 
 ### Part 2 Requirements
-Provide unit tests for the your classes and methods. Make sure they are at least 70% unit tested.
+Provide unit tests for the your classes and methods.
+   
+### Part 3 Requirements
+Submit a document outlining how much test coverage you think your project has. Include the justification for why you think it has that much coverage, including what you believe each test covers.  
    - check out https://coverage.readthedocs.io/
 
 ## Submission details
