@@ -14,11 +14,10 @@ The board is a grid of 3-by-3 squares, all initially unclaimed. Each move will f
 The game is over when 3 in a row of either X or O in any direction is found.
 
 ### Part 2 Requirements
-Provide unit tests for the your classes and methods.
+Provide unit tests for your classes and methods.
    
 ### Part 3 Requirements
-Submit a document outlining how much test coverage you think your project has. Include the justification for why you think it has that much coverage, including what you believe each test covers.  
-   - check out https://coverage.readthedocs.io/
+Submit a document with at least one paragraph (4-5 sentences) describing what you think is hard about unit testing. Consider places where you aren’t testing the "smallest unit" or where there is code you can’t test.
 
 ## Submission details
 To submit your project, you will have to use git on your VirtualBox installation:
